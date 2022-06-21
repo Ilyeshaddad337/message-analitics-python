@@ -3,3 +3,9 @@ messages
 test.py
 venv
 .ipynb_checkpoints
+has_value.csv 
+my_cnv.csv 
+test.csv 
+my_cnv.json
+full_cnv.json
+full_cnv.csv
